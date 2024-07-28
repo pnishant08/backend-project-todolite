@@ -1,11 +1,11 @@
-!...Backend Project Todolite...!
+# !...Backend Project Todolite...!
 
 
-Overview...
+#Overview...
 
 This project is a backend implementation for a lightweight todo application. It serves as a foundation where you can also connect the frontend, creating a full-stack application. The backend is built using Node.js, Express, and MongoDB, with additional tools for development.
 
-Features...
+#Features...
 
 Node.js: Used as the runtime environment for executing JavaScript code on the server side.
 Express: A web application framework for Node.js, used for routing and handling HTTP requests.
@@ -13,7 +13,7 @@ Nodemon: A utility that automatically restarts the server after detecting file c
 MongoDB: A NoSQL database used to store application data.
 
 
-Getting Started...
+#Getting Started...
 
 # Prerequisites
     Node.js
@@ -134,7 +134,7 @@ Copy code
 git push todo main
 After resolving the merge, pushed the local changes to the remote repository successfully.
 
-Acknowledgments...
+# Acknowledgments...
    Node.js Documentation: For in-depth understanding of the runtime environment.
    npm: For providing useful packages and documentation.
    Express Documentation: For comprehensive guides and examples.
